@@ -1,0 +1,25 @@
+_repo: The-Kansas-University-Quarterly-Vol-I-No-1-1892_55207
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Kellogg, Vernon Lyman
+    gutenberg_agent_id: '48222'
+    url: http://www.gutenberg.org/2009/agents/48222
+description: ''
+gutenberg_issued: '2017-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55207'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Kansas University Quarterly, Vol. I, No. 1 (1892)
+url: http://www.gutenberg.org/ebooks/55207
